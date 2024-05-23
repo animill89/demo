@@ -1,0 +1,30 @@
+.imges {
+    /*margin-top: 10px;*/
+    display: flex;
+    align-items: center;
+}
+
+.task {
+    width: 1000px;
+    height: 800px;
+}
+
+.text {
+    width: 675px;
+    /*height: 200px;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -100px;
+}
+
+.ts{
+    font-family: 华文宋体;
+    margin: 10px;
+    /*height: 400px;*/
+    font-size: 78px;
+}
+.txtBox {
+
+    margin-bottom: 10px;
+}
